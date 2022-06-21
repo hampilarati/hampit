@@ -25,7 +25,7 @@ jobs:
 
 
 
-    parallelism: 1
+    
 
 
 workflows:
